@@ -1,7 +1,7 @@
 main:
-  - title: "Posts"
-    url: /posts/
   - title: "Guitar"
     url: /guitar/
+  - title: "Home"
+    url: https://yzhong52.github.io/
   - title: "About"
     url: /about/

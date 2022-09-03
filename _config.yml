@@ -123,22 +123,6 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # https://mmistakes.github.io/minimal-mistakes/docs/posts/
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: false
-      share: true
-      related: true
-      read_time: true
-      show_date: true
-      toc: true
-      toc_sticky: true
   # _guitar
   - scope:
       path: ""
