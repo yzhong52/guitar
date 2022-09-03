@@ -1,6 +1,4 @@
 main:
-  - title: "Guitar"
-    url: /guitar/
   - title: "Home"
     url: https://yzhong52.github.io/
   - title: "About"
