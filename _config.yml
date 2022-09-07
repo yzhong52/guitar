@@ -30,7 +30,7 @@ repository: "yzhong52/yzhong52.github.io"
 # The subpath of your site, e.g. /blog
 baseurl: ""
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://yzhong52.github.io/pages"
+url: "https://yzhong52.github.io/guitar"
 
 # https://github.com/mmistakes/minimal-mistakes#installation
 # Only the remote theme is GitHub Pages compatible, the gem-based theme is not.
