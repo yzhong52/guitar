@@ -28,9 +28,9 @@ description: "Yuchen's personal webpage."
 # https://github.com/yzhong52/yzhong52.github.io
 repository: "yzhong52/yzhong52.github.io"
 # The subpath of your site, e.g. /blog
-baseurl: ""
+baseurl: "/guitar"
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://yzhong52.github.io/guitar"
+url: "https://yzhong52.github.io"
 
 # https://github.com/mmistakes/minimal-mistakes#installation
 # Only the remote theme is GitHub Pages compatible, the gem-based theme is not.
