@@ -139,7 +139,7 @@ defaults:
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: G-F2F73B78G7
+    tracking_id: G-WNL5K1V17C
 
 category_archive:
   type: liquid
