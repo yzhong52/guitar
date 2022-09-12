@@ -111,7 +111,7 @@ exclude:
 
 # Collections
 collections:
-  guitar:
+  score:
     output: true
     permalink: /:collection/:path/
 
@@ -123,10 +123,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _guitar
+  # _score
   - scope:
       path: ""
-      type: guitar
+      type: score
     values:
       layout: single
       author_profile: false

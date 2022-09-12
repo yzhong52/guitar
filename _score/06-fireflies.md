@@ -25,7 +25,7 @@ excerpt: "郑伊健 1998"
 </pre>
 
 <figure>
-    <a href="/assets/guitar/06-fireflies.jpg">
-        <img src="/assets/guitar/06-fireflies.jpg">
+    <a href="/guitar/assets/score/06-fireflies.jpg">
+        <img src="/guitar/assets/score/06-fireflies.jpg">
     </a>
 </figure>

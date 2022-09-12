@@ -57,14 +57,14 @@ classes: wide
 </pre>
 
 <figure class="third">
-    <a href="/assets/guitar/65-liwu1.jpg">
-        <img src="/assets/guitar/65-liwu1.jpg">
+    <a href="/guitar/assets/score/65-liwu1.jpg">
+        <img src="/guitar/assets/score/65-liwu1.jpg">
     </a>
-    <a href="/assets/guitar/65-liwu2.jpg">
-        <img src="/assets/guitar/65-liwu2.jpg">
+    <a href="/guitar/assets/score/65-liwu2.jpg">
+        <img src="/guitar/assets/score/65-liwu2.jpg">
     </a>
-    <a href="/assets/guitar/65-liwu3.jpg">
-        <img src="/assets/guitar/65-liwu3.jpg">
+    <a href="/guitar/assets/score/65-liwu3.jpg">
+        <img src="/guitar/assets/score/65-liwu3.jpg">
     </a>
 </figure>
 
