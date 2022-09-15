@@ -19,7 +19,7 @@ excerpt: "侃侃 2006 电视剧《北京爱情故事》"
 嘀嗒嘀嗒嘀嗒嘀嗒 还会有人把你牵挂  
 
 <figure>
-  <a href="/guitar/assets/score/05-dida.jpg">
-    <img src="/guitar/assets/score/05-dida.jpg">
+  <a href="/guitar/assets/chord/05-dida.jpg">
+    <img src="/guitar/assets/chord/05-dida.jpg">
   </a>
 </figure>

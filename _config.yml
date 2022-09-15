@@ -111,7 +111,7 @@ exclude:
 
 # Collections
 collections:
-  score:
+  chord:
     output: true
     permalink: /:collection/:path/
 
@@ -123,10 +123,10 @@ defaults:
     values:
       layout: single
       author_profile: true
-  # _score
+  # _chord
   - scope:
       path: ""
-      type: score
+      type: chord
     values:
       layout: single
       author_profile: false
