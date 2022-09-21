@@ -110,7 +110,7 @@ x x
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## B Major 7th (Bmaj7)
+## B major 7th (Bmaj7)
 
 {% include chord-begin %}
         ◯ x
@@ -200,7 +200,7 @@ x     ◯   ◯
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## C Major 7th (Cmaj7)
+## C major 7th (Cmaj7)
 
 {% include chord-begin %}
 x     ◯ ◯ ◯
@@ -275,7 +275,7 @@ x x ◯
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## D Major 7th (Dmaj7)
+## D major 7th (Dmaj7)
 
 {% include chord-begin %}
 x x ◯      
@@ -350,7 +350,7 @@ x x ◯
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## E Major 7th (Emaj7)
+## E major 7th (Emaj7)
 
 {% include chord-begin %}
 ◯       ◯ ◯
@@ -440,7 +440,7 @@ x x ◯
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## F Major 7th (Fmaj7)
+## F major 7th (Fmaj7)
 
 {% include chord-begin %}
 x x       ◯
@@ -530,7 +530,7 @@ x x
 └─┴─┴─┴─┴─┘
 {% include chord-end %}
 
-## G Major 7th (Gmaj7)
+## G major 7th (Gmaj7)
 
 {% include chord-begin %}
   x ◯ ◯ ◯  
