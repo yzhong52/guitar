@@ -33,13 +33,13 @@ Am x2                     G       G
    Hello darkness, my old friend,
                            Am     Am
 I've come to talk with you again,
-                     F ½     C 1½ 
+                     F ½     C 1 ½ 
 Because a vision softly creeping,
                        F ½      C
 Left its seeds while I was sleeping,
         F                 F           C
 And the vision that was planted in my brain
-            C 1½  Am 1½ 
+            C 1 ½  Am 1 ½ 
 Still remains
 C ½         G        Am       Am
 Within the sound of silence.

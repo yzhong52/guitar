@@ -1,0 +1,18 @@
+---
+title: "The Sound Of Silence"
+excerpt: "Simon & Garfunkel 1964"
+classes: wide
+---
+
+* Capo: ? fret
+* Strumming pattern: Down up (x?)
+* Picking pattern:
+  - A?: 3121? (x2)
+
+{%include chord-begin %}
+{%include chord-end %}
+
+<pre style="font-family: Ariel, monospace;">
+</pre>
+
+{% include video id="XXXXXXXXXX" provider="youtube" %}
