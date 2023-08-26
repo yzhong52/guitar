@@ -4,7 +4,7 @@ excerpt: "1987"
 classes: wide
 ---
 
-<figure>
+<figure class="half">
     <a href="/guitar/assets/chord/37-about-winter-1.jpg">
         <img src="/guitar/assets/chord/37-about-winter-1.jpg">
     </a>

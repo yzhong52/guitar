@@ -3,8 +3,6 @@ title: "小情歌"
 excerpt: "苏打绿 2007"
 ---
 
-曾轶可 2009
-
 <figure class="half">
     <a href="/guitar/assets/chord/23-little-love-song-1.jpg">
         <img src="/guitar/assets/chord/23-little-love-song-1.jpg">
